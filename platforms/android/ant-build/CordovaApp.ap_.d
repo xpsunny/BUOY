@@ -1,118 +1,118 @@
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\CordovaApp.ap_ \
- : C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-hdpi\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-land-hdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-land-ldpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-land-mdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-land-xhdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-ldpi\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-mdpi\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-port-hdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-port-ldpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-port-mdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-port-xhdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\drawable-xhdpi\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\values\strings.xml \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\res\xml\config.xml \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-hdpi\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-ldpi\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-mdpi\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\_where-is-www.txt \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\config.xml \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\cordova.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\cordova_plugins.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\fonts \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\images \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\img \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\index.html \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec.html \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css\BackGround.css \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css\bootstrap-theme.css \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css\bootstrap-theme.css.map \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css\bootstrap-theme.min.css \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css\bootstrap.css \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css\bootstrap.css.map \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css\bootstrap.min.css \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css\DataFormat.css \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\css\index.css \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\fonts\glyphicons-halflings-regular.eot \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\fonts\glyphicons-halflings-regular.svg \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\fonts\glyphicons-halflings-regular.ttf \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\fonts\glyphicons-halflings-regular.woff \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\images\address.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\images\Background.jpg \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\images\Background2.jpg \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\images\middle.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\images\pic.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\images\setting.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\images\social.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\img\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\js\angular.min.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\js\app.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\js\bootstrap.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\js\bootstrap.min.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\js\Functions.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\js\index.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\js\storage \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\js\storage\storage.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\icon.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\icon_old.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\android \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\bada \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\bada-wac \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\blackberry \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\tizen \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\webos \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\windows-phone \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\android\screen-hdpi-landscape.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\android\screen-hdpi-portrait.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\android\screen-ldpi-landscape.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\android\screen-ldpi-portrait.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\android\screen-mdpi-landscape.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\android\screen-mdpi-portrait.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\android\screen-xhdpi-landscape.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\android\screen-xhdpi-portrait.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\bada\screen-portrait.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\bada-wac\screen-type3.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\bada-wac\screen-type4.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\bada-wac\screen-type5.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\blackberry\screen-225.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape-2x.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait-2x.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape-2x.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-2x.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-568h-2x.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\tizen\README.md \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\webos\screen-64.png \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\res\screen\windows-phone\screen-portrait.jpg \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec\helper.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec\index.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec\lib \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec\lib\jasmine-1.2.0 \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine-html.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.css \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.js \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\assets\www\spec\lib\jasmine-1.2.0\MIT.LICENSE \
-C:\Users\Sunny\Documents\buoy - Copy\platforms\android\ant-build\AndroidManifest.xml \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\CordovaApp.ap_ \
+ : C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-land-hdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-land-ldpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-land-mdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-land-xhdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-ldpi\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-mdpi\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-port-hdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-port-ldpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-port-mdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-port-xhdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\values\strings.xml \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\res\xml\config.xml \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\_where-is-www.txt \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\config.xml \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\cordova.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\cordova_plugins.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\fonts \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\img \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\index.html \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec.html \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css\BackGround.css \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css\bootstrap-theme.css \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css\bootstrap-theme.css.map \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css\bootstrap-theme.min.css \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css\bootstrap.css \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css\bootstrap.css.map \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css\bootstrap.min.css \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css\DataFormat.css \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css\index.css \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\fonts\glyphicons-halflings-regular.eot \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\fonts\glyphicons-halflings-regular.svg \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\fonts\glyphicons-halflings-regular.ttf \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\fonts\glyphicons-halflings-regular.woff \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\address.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\Background.jpg \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\Background2.jpg \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\middle.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\pic.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\setting.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\social.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\img\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\angular.min.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\app.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\bootstrap.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\bootstrap.min.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\Functions.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\index.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\storage \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\storage\storage.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\icon_old.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\android \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\bada \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\bada-wac \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\blackberry \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\tizen \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\webos \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\windows-phone \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\android\screen-hdpi-landscape.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\android\screen-hdpi-portrait.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\android\screen-ldpi-landscape.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\android\screen-ldpi-portrait.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\android\screen-mdpi-landscape.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\android\screen-mdpi-portrait.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\android\screen-xhdpi-landscape.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\android\screen-xhdpi-portrait.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\bada\screen-portrait.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\bada-wac\screen-type3.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\bada-wac\screen-type4.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\bada-wac\screen-type5.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\blackberry\screen-225.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape-2x.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait-2x.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape-2x.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-2x.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-568h-2x.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\tizen\README.md \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\webos\screen-64.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\res\screen\windows-phone\screen-portrait.jpg \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec\helper.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec\index.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec\lib \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec\lib\jasmine-1.2.0 \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine-html.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.css \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.js \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\spec\lib\jasmine-1.2.0\MIT.LICENSE \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\ant-build\AndroidManifest.xml \
