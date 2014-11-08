@@ -34,7 +34,6 @@ C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\cordova.js \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\cordova_plugins.js \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\css \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\fonts \
-C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\icon.png \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\img \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\index.html \
@@ -62,7 +61,8 @@ C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\middle.
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\pic.png \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\setting.png \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\images\social.png \
-C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\img\icon.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\img\splash.png \
+C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\img\test.png \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\angular.min.js \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\app.js \
 C:\Users\Sunny\Documents\GitHub\BUOY\platforms\android\assets\www\js\bootstrap.js \

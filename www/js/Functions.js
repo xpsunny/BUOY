@@ -157,10 +157,10 @@ function showLocation(pos) {
        ConvertLocation(geo_latitude,geo_longtitude);
      }
 function ErrorHandler(err) {
-       if(err.code == 1) {
-         alert("Error: Access is denied!");
-       }else if( err.code == 2) {
-         alert("Error: Position is unavailable!");
+      // if(err.code == 1) {
+      //   alert("Error: Access is denied!");
+     //  }else if( err.code == 2) {
+      //   alert("Error: Position is unavailable!");
        }
      }
 function options(){
