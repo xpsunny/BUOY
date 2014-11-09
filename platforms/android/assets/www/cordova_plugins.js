@@ -6,12 +6,20 @@ module.exports = [
         "clobbers": [
             "window.open"
         ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.splashscreen/www/splashscreen.js",
+        "id": "org.apache.cordova.splashscreen.SplashScreen",
+        "clobbers": [
+            "navigator.splashscreen"
+        ]
     }
 ];
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "org.apache.cordova.inappbrowser": "0.5.3"
+    "org.apache.cordova.inappbrowser": "0.5.3",
+    "org.apache.cordova.splashscreen": "0.3.4"
 }
 // BOTTOM OF METADATA
 });
